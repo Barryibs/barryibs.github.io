@@ -1,9 +1,3 @@
----
-layout: home
-title: Pricing Models and Statistical Analysis
-permalink: /
----
-
 ## Purpose
 
 The purpose of this document is to explore West African economic problems and build pricing models using statistical tools and open-source data.
