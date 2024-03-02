@@ -1,26 +1,22 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: Pricing Models and Statistical Analysis
 permalink: /
 ---
 
-Make Jelly site have a GitBook look!
+## Purpose
 
-## Demo
+The purpose of this document is to explore West African economic problems and build pricing models using statistical tools and open-source data.
 
-Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
 
-[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
+## Data
 
-## Why Jekyll with GitBook
+Accessing relevant data for building pricing models for insurance in West Africa can involve utilizing a variety of sources, including governmental agencies, international organizations, research institutions, and specialized databases. Here are some websites and resources where 
 
-GitBook is an amazing frontend style to present and organize contents (such as book chapters
-and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
-is building HTML files locally and then push to Github repository, usually to the `gh-pages`
-branch. It's quite annoying to repeat such workload and make it hard for people do version
-control via git for when there are generated HTML files to be staged in and out.
+World Bank Data: The World Bank provides a wide range of economic, social, and demographic data for countries around the world, including those in West Africa. Their website offers access to datasets on GDP, inflation, poverty rates, healthcare expenditure, and more. Website: [World Bank Data](https://databank.worldbank.org/)
 
-This theme takes style definition out of generated GitBook site and provided the template
-for Jekyll to rendering markdown documents to HTML, thus the whole site can be deployed
-to [Github Pages][1] without generating and uploading HTML bundle every time when there are
-changes to the original repo.
+International Monetary Fund (IMF): The IMF offers economic data and reports, including GDP growth rates, inflation forecasts, and other macroeconomic indicators for countries in West Africa. Website: [IMF Data](https://www.imf.org/en/Data)
+
+United Nations Data: The United Nations provides various statistical databases covering demographic, social, economic, and environmental indicators for countries worldwide, including those in West Africa. Website: [UN Data](https://data.un.org/DataMartInfo.aspx)
+
+African Development Bank (AfDB): The AfDB offers economic and financial data specific to African countries, including West Africa. Their website provides access to reports, statistics, and research publications. Website: [AfDB Data Portal](https://www.afdb.org/en/knowledge/statistics)
