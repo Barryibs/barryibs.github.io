@@ -1,1 +1,3 @@
-My name is Ibrahima Barry
+layout: page
+title: "About page"
+permalink: /URL-PATH
